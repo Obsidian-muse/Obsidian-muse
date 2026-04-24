@@ -1,8 +1,8 @@
+# 🌙 Tehreem
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A7FF0,100:F78C6C&height=120&section=header"/>
 </p>
-
-# 🌙 Tehreem
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=8A7FF0&center=true&vCenter=true&lines=I+turn+emotional+patterns+into+interactive+systems;I+build+dreamy+digital+experiences;I+design+emotion-aware+web+apps">
@@ -10,65 +10,95 @@
 
 ---
 
-## 🧠 What I’m building
+## 🌌 Identity
 
-I explore how emotions, behavior, and interaction can be translated into digital systems.
-
-My focus is on creating web experiences that feel alive, expressive, and meaningful.
+I turn emotional patterns into interactive systems and digital experiences.
 
 ---
 
-## 🌸 Featured Project
-
-### 🌙 LUMORA — Mood Tracking PWA
-
-A mood-aware web application designed to transform emotional tracking into an interactive experience.
-
-✨ Key ideas behind it:
-- Emotional journaling with creative expression
-- Multiple aesthetic themes (galaxy, sakura, pastel, forest, neon)
-- Mini interactive experiences like *Whisper Garden*
-- Personalized user interaction system
+⋆｡°✩ ───────── ⋆｡°✩ ───────── ⋆｡°✩
 
 ---
 
-## 🌱 What I’m currently exploring
+## 🧠 About My Work
 
-- Java & Data Structures
-- Digital Logic Design
-- Interactive UI systems
-- Emotional design in web applications
+I explore how emotion, interaction, and logic can merge into digital systems.
 
----
-
-## 🧩 Skills
-
-- HTML, CSS, JavaScript
-- Java (Basics + DSA)
-- Database Fundamentals
-- Problem Solving
+Instead of building static interfaces, I design experiences that respond, adapt, and feel alive.
 
 ---
 
-## 🌙 Current direction
+⋆｡°✩ ───────── ⋆｡°✩ ───────── ⋆｡°✩
 
-Building systems where logic meets emotion.
+---
+
+## 🪐 Featured Project — LUMORA
+
+### 🌙 A Digital Emotional Universe
+
+LUMORA is a mood tracking system designed as an interactive emotional universe.
+
+Rather than simply recording moods, it creates a space where emotions feel like they exist in motion.
+
+---
+
+✨ Core ideas:
+- Emotional journaling as interaction
+- Multiple evolving environments (galaxy, sakura, forest, neon)
+- Whisper Garden — a soft emotional growth system
+- Personalized emotional feedback experience
+
+---
+
+🌌 Design Philosophy:
+LUMORA is not just an app.  
+It is a contained emotional universe where interaction replaces static input.
+
+---
+
+⋆｡°✩ ───────── ⋆｡°✩ ───────── ⋆｡°✩
+
+---
+
+## 🌱 Currently Exploring
+
+- Building emotionally aware web experiences  
+- Java & Data Structures  
+- Digital Logic Design  
+- Interactive UI systems  
+- Emotional design in digital environments  
+
+---
+
+⋆｡°✩ ───────── ⋆｡°✩ ───────── ⋆｡°✩
+
+---
+
+## 📊 GitHub Journey
+
+<p align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Obsidian-muse&show_icons=true&theme=tokyonight&hide_border=true)
+
+</p>
+
+<p align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Obsidian-muse&layout=compact&theme=tokyonight&hide_border=true)
+
+</p>
+
+---
+
+⋆｡°✩ ───────── ⋆｡°✩ ───────── ⋆｡°✩
 
 ---
 
 ## 🔗 Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/tehreem-fatima-423699405?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 💼 LinkedIn: https://www.linkedin.com/in/tehreem-fatima-423699405?utm_source=share_via&utm_content=profile&utm_medium=member_android  
 - 🌐 Live Project: LUMORA  
-- 📦 Other Work: Obsidian_muse  
-
----
-
-## 🌙 A little snapshot of my journey
-
-![Tehreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obsidian-muse&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Obsidian-muse&layout=compact&theme=tokyonight&hide_border=true)
+- 📦 GitHub: Obsidian_muse  
 
 ---
 
@@ -78,3 +108,7 @@ Building systems where logic meets emotion.
 > I translate emotional patterns into systems that respond, adapt, and feel alive.
 
 ---
+
+<p align="center">
+✦ ⋆ ˚｡𖦹 ⋆｡°✩ ⋆ ˚｡𖦹 ⋆✦
+</p>
