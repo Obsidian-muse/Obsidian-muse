@@ -70,4 +70,11 @@ Building systems where logic meets emotion.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Obsidian-muse&layout=compact&theme=tokyonight&hide_border=true)
 
-> “Not everything built with code is just functional. Some things are felt.”
+---
+
+## 🌙 Signature Thought
+
+> I don’t just build interfaces.  
+> I translate emotional patterns into systems that respond, adapt, and feel alive.
+
+---
