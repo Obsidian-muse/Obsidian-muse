@@ -1,6 +1,6 @@
 # 🌙 Tehreem
 
-I turn emotional patterns into interactive systems and digital experiences.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A7FF0&lines=I+turn+emotional+patterns+into+interactive+systems;I+build+dreamy+digital+experiences;I+design+emotion-aware+web+apps)
 
 ---
 
