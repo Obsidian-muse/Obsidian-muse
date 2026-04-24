@@ -1,16 +1,63 @@
-## Hi there 👋
+# 🌸 Hi, I'm Tehreem!
 
-<!--
-**Obsidian-muse/Obsidian-muse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student | 🌙 Creative Thinker | 🎯 Future Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌼 About Me
+
+* 🎓 Studying Computer Science
+* 🌱 Currently learning: Java, Data Structures & Digital Logic Design
+* 🎯 Goal: Becoming a skilled developer while building meaningful projects
+* ✨ I enjoy mixing **creativity + technology**
+
+---
+
+## 🚀 My Projects
+
+### 🌌 Mood Tracker PWA
+
+A dreamy and interactive mood tracking web app with:
+
+* 🎨 Multiple themes (galaxy, sakura, pastel, forest, neon)
+* 📓 Journal system with creative elements
+* 🎮 Mini-games like *Whisper Garden*
+* 💡 Personalized user experience
+
+---
+
+### 🌸 Whisper Garden (Mini Game)
+
+A calming game where:
+
+* 🌱 You grow flowers based on emotions
+* ☀️ Positive actions help growth
+* 🌧️ Inactivity causes gentle regression
+* ✨ Designed with a soft, dreamy aesthetic
+
+---
+
+## 🛠️ Skills
+
+* 💻 HTML, CSS, JavaScript
+* ☕ Java (Basics + DSA)
+* 🗄️ Database Concepts
+* 🧠 Problem Solving
+
+---
+
+## 🌟 Currently Working On
+
+* 🎮 Expanding mini-games in Mood Tracker
+* 📚 Learning Data Structures deeply
+* 🎯 Preparing for future opportunities
+
+---
+
+## 📫 Connect With Me
+
+* LINKEDIN
+
+---
+
+⭐ *“Building things that feel as good as they function.”*
