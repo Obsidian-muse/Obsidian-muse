@@ -1,4 +1,7 @@
 # 🌸 Hi, I'm Tehreem!
+---
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F78C6C\&lines=Computer+Science+Student;Creative+Developer;Building+Dreamy+Web+Apps;Future+Software+Engineer)
+
 
 💻 Computer Science Student | 🌙 Creative Thinker | 🎯 Future Developer
 
@@ -61,3 +64,9 @@ A calming game where:
 ---
 
 ⭐ *“Building things that feel as good as they function.”*
+## 📊 GitHub Stats
+
+![Tehreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obsidian-muse\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Obsidian-muse\&layout=compact\&theme=tokyonight)
+
