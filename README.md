@@ -57,5 +57,12 @@ Building systems where logic meets emotion.
 - 📦 Other Work: Obsidian_muse  
 
 ---
+---
+
+## 🌙 A little snapshot of my journey
+
+![Tehreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obsidian-muse&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Obsidian-muse&layout=compact&theme=tokyonight&hide_border=true)
 
 > “Not everything built with code is just functional. Some things are felt.”
