@@ -14,11 +14,9 @@
 
 I turn emotional patterns into interactive systems and digital experiences.
 
----
 
 ⋆｡°✩ ───────── ⋆｡°✩ ───────── ⋆｡°✩
 
----
 
 ## 🧠 About My Work
 
@@ -26,11 +24,9 @@ I explore how emotion, interaction, and logic can merge into digital systems.
 
 Instead of building static interfaces, I design experiences that respond, adapt, and feel alive.
 
----
 
 ⋆｡°✩ ───────── ⋆｡°✩ ───────── ⋆｡°✩
 
----
 
 ## 🪐 Featured Project — LUMORA
 
@@ -54,11 +50,9 @@ Rather than simply recording moods, it creates a space where emotions feel like 
 LUMORA is not just an app.  
 It is a contained emotional universe where interaction replaces static input.
 
----
 
 ⋆｡°✩ ───────── ⋆｡°✩ ───────── ⋆｡°✩
 
----
 
 ## 🌱 Currently Exploring
 
@@ -68,11 +62,9 @@ It is a contained emotional universe where interaction replaces static input.
 - Interactive UI systems  
 - Emotional design in digital environments  
 
----
 
 ⋆｡°✩ ───────── ⋆｡°✩ ───────── ⋆｡°✩
 
----
 
 ## 📊 GitHub Journey
 
@@ -88,11 +80,9 @@ It is a contained emotional universe where interaction replaces static input.
 
 </p>
 
----
 
 ⋆｡°✩ ───────── ⋆｡°✩ ───────── ⋆｡°✩
 
----
 
 ## 🔗 Connect
 
