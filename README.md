@@ -1,5 +1,7 @@
 # 🌙 Tehreem
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A7FF0,100:F78C6C&height=120&section=header"/>
+</p>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A7FF0&lines=I+turn+emotional+patterns+into+interactive+systems;I+build+dreamy+digital+experiences;I+design+emotion-aware+web+apps)
 
 ---
@@ -56,7 +58,6 @@ Building systems where logic meets emotion.
 - 🌐 Live Project: LUMORA  
 - 📦 Other Work: Obsidian_muse  
 
----
 ---
 
 ## 🌙 A little snapshot of my journey
