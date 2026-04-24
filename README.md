@@ -1,72 +1,61 @@
-# 🌸 Hi, I'm Tehreem!
----
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F78C6C\&lines=Computer+Science+Student;Creative+Developer;Building+Dreamy+Web+Apps;Future+Software+Engineer)
+# 🌙 Tehreem
 
-
-💻 Computer Science Student | 🌙 Creative Thinker | 🎯 Future Developer
+I turn emotional patterns into interactive systems and digital experiences.
 
 ---
 
-## 🌼 About Me
+## 🧠 What I’m building
 
-* 🎓 Studying Computer Science
-* 🌱 Currently learning: Java, Data Structures & Digital Logic Design
-* 🎯 Goal: Becoming a skilled developer while building meaningful projects
-* ✨ I enjoy mixing **creativity + technology**
+I explore how emotions, behavior, and interaction can be translated into digital systems.
 
----
-
-## 🚀 My Projects
-
-### 🌌 Mood Tracker PWA
-
-A dreamy and interactive mood tracking web app with:
-
-* 🎨 Multiple themes (galaxy, sakura, pastel, forest, neon)
-* 📓 Journal system with creative elements
-* 🎮 Mini-games like *Whisper Garden*
-* 💡 Personalized user experience
+My focus is on creating web experiences that feel alive, expressive, and meaningful.
 
 ---
 
-### 🌸 Whisper Garden (Mini Game)
+## 🌸 Featured Project
 
-A calming game where:
+### 🌙 LUMORA — Mood Tracking PWA
 
-* 🌱 You grow flowers based on emotions
-* ☀️ Positive actions help growth
-* 🌧️ Inactivity causes gentle regression
-* ✨ Designed with a soft, dreamy aesthetic
+A mood-aware web application designed to transform emotional tracking into an interactive experience.
 
----
-
-## 🛠️ Skills
-
-* 💻 HTML, CSS, JavaScript
-* ☕ Java (Basics + DSA)
-* 🗄️ Database Concepts
-* 🧠 Problem Solving
+✨ Key ideas behind it:
+- Emotional journaling with creative expression
+- Multiple aesthetic themes (galaxy, sakura, pastel, forest, neon)
+- Mini interactive experiences like *Whisper Garden*
+- Personalized user interaction system
 
 ---
 
-## 🌟 Currently Working On
+## 🌱 What I’m currently exploring
 
-* 🎮 Expanding mini-games in Mood Tracker
-* 📚 Learning Data Structures deeply
-* 🎯 Preparing for future opportunities
-
----
-
-## 📫 Connect With Me
-
-* LINKEDIN
+- Java & Data Structures
+- Digital Logic Design
+- Interactive UI systems
+- Emotional design in web applications
 
 ---
 
-⭐ *“Building things that feel as good as they function.”*
-## 📊 GitHub Stats
+## 🧩 Skills
 
-![Tehreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obsidian-muse\&show_icons=true\&theme=tokyonight)
+- HTML, CSS, JavaScript
+- Java (Basics + DSA)
+- Database Fundamentals
+- Problem Solving
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Obsidian-muse\&layout=compact\&theme=tokyonight)
+---
 
+## 🌙 Current direction
+
+Building systems where logic meets emotion.
+
+---
+
+## 🔗 Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/tehreem-fatima-423699405?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 🌐 Live Project: LUMORA  
+- 📦 Other Work: Obsidian_muse  
+
+---
+
+> “Not everything built with code is just functional. Some things are felt.”
